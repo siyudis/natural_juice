@@ -1,51 +1,51 @@
-Transaction_ID,Date,Item,Price,Customer_ID,Location
+Transaction_ID,Date,Item,Price,Customer_ID,State
 1,06/08/2025,Apple,2.08,1035,Lagos
 2,02/08/2025,Watermelon,4.21,1086,Kaduna
-3,01/08/2025,Pineapple,3.27,1003,Abuja
+3,01/08/2025,Pineapple,3.27,1003,Federal Capital Territory
 4,02/08/2025,Watermelon,3.52,1003,Kaduna
 5,02/08/2025,Pineapple,3.26,1057,Kaduna
-6,03/08/2025,Apple,4.28,1020,Port Harcourt
+6,03/08/2025,Apple,4.28,1020,Rivers
 7,03/08/2025,Mango,2.47,1097,Kano
 8,01/08/2025,Apple,3.14,1045,Kano
-9,05/08/2025,Mango,4.42,1093,Port Harcourt
-10,05/08/2025,Apple,4.92,1048,Abuja
+9,05/08/2025,Mango,4.42,1093,Rivers
+10,05/08/2025,Apple,4.92,1048,Federal Capital Territory
 11,05/08/2025,Mango,4.49,1079,Kano
 12,05/08/2025,Watermelon,4.11,1005,Lagos
-13,07/08/2025,Mango,4.96,1029,Abuja
+13,07/08/2025,Mango,4.96,1029,Federal Capital Territory
 14,04/08/2025,Mango,3.36,1046,Lagos
-15,03/08/2025,Mango,2.63,1034,Abuja
+15,03/08/2025,Mango,2.63,1034,Federal Capital Territory
 16,05/08/2025,Watermelon,3.6,1031,Lagos
 17,04/08/2025,Orange,2.81,1081,Kaduna
-18,02/08/2025,Mango,4.53,1099,Abuja
+18,02/08/2025,Mango,4.53,1099,Federal Capital Territory
 19,02/08/2025,Apple,4.42,1051,Kano
 20,01/08/2025,Watermelon,4.74,1072,Kano
-21,02/08/2025,Orange,3.19,1082,Port Harcourt
+21,02/08/2025,Orange,3.19,1082,Rivers
 22,02/08/2025,Mango,2.42,1095,Kaduna
 23,05/08/2025,Mango,4.24,1054,Kaduna
 24,04/08/2025,Mango,2.66,1017,Kaduna
 25,04/08/2025,Apple,4.27,1014,Lagos
 26,06/08/2025,Watermelon,4.38,1054,Kaduna
 27,01/08/2025,Orange,3.14,1059,Kaduna
-28,03/08/2025,Pineapple,4.58,1001,Abuja
+28,03/08/2025,Pineapple,4.58,1001,Federal Capital Territory
 29,06/08/2025,Pineapple,4.25,1098,Kano
-30,01/08/2025,Mango,3.3,1058,Abuja
+30,01/08/2025,Mango,3.3,1058,Federal Capital Territory
 31,06/08/2025,Mango,4.92,1097,Lagos
 32,05/08/2025,Apple,4.61,1038,Kaduna
 33,05/08/2025,Watermelon,2.46,1097,Lagos
 34,05/08/2025,Pineapple,4.76,1076,Kano
 35,04/08/2025,Apple,2.34,1046,Kano
-36,02/08/2025,Apple,2.72,1072,Abuja
+36,02/08/2025,Apple,2.72,1072,Federal Capital Territory
 37,01/08/2025,Orange,4.45,1097,Kaduna
 38,07/08/2025,Watermelon,2.39,1060,Kaduna
-39,02/08/2025,Mango,3.58,1077,Port Harcourt
+39,02/08/2025,Mango,3.58,1077,Rivers
 40,02/08/2025,Pineapple,4.27,1088,Lagos
 41,06/08/2025,Mango,3.2,1085,Kano
 42,04/08/2025,Pineapple,3.35,1031,Lagos
 43,01/08/2025,Mango,2.06,1070,Lagos
-44,05/08/2025,Watermelon,2.02,1090,Abuja
-45,02/08/2025,Apple,4.72,1042,Abuja
+44,05/08/2025,Watermelon,2.02,1090,Federal Capital Territory
+45,02/08/2025,Apple,4.72,1042,Federal Capital Territory
 46,05/08/2025,Watermelon,2.84,1062,Lagos
 47,05/08/2025,Watermelon,4.17,1073,Kaduna
 48,04/08/2025,Watermelon,4.35,1052,Lagos
-49,01/08/2025,Apple,3.98,1045,Port Harcourt
-50,04/08/2025,Orange,4.59,1006,Abuja
+49,01/08/2025,Apple,3.98,1045,Rivers
+50,04/08/2025,Orange,4.59,1006,Federal Capital Territory
